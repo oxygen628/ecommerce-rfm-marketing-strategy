@@ -17,5 +17,5 @@
 
 ##  业务看板 (Power BI)
 ![Power BI 报表](images/总览.png)
-
-
+![Power BI 报表](images/用户群体画像对比.png)
+![Power BI 报表](images/营销效果对比.png)
